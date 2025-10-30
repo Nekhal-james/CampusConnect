@@ -26,23 +26,6 @@ A desktop application that enables college students, event-organizers, and admin
 
 ---
 
-## 📂 Package Structure
-
-src/
- ├── main/
- │    ├── java/
- │    │     ├── com/yourorg/campusconnect/
- │    │     │     ├── model/
- │    │     │     ├── view/
- │    │     │     ├── controller/
- │    │     │     ├── util/
- │    │     │     └── App.java
- │    └── resources/
- └── test/
-      └── java/
-            └── com/yourorg/campusconnect/
-
----
 
 ## 🎬 Getting Started
 
@@ -130,3 +113,4 @@ Contact: Add email or preferred method
 ---
 
 *Happy coding and have fun building!*
+
